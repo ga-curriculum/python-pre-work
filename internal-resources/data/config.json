@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk-module-name",
+    "friendlyName": "Python Pre-Work",
+    "name": "python-pre-work",
     "type": "Lesson"
   },
   "courses": [
@@ -14,27 +14,113 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
+          "friendlyName": "Introduction to Python",
+          "dirName": "introduction-to-python",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Data Types in Python",
+          "dirName": "data-types-in-python",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
+          "friendlyName": "Manipulating Variables in Python",
+          "dirName": "manipulating-variables-in-python",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
+          "friendlyName": "Control Flow in Python",
+          "dirName": "control-flow-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Functions in Python",
+          "dirName": "functions-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Objects and Classes",
+          "dirName": "objects-and-classes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Error Handling in Python",
+          "dirName": "error-handling-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "pps",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Introduction to Python",
+          "dirName": "introduction-to-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Data Types in Python",
+          "dirName": "data-types-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulating Variables in Python",
+          "dirName": "manipulating-variables-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Control Flow in Python",
+          "dirName": "control-flow-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Functions in Python",
+          "dirName": "functions-in-python",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Objects and Classes",
+          "dirName": "objects-and-classes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Error Handling in Python",
+          "dirName": "error-handling-in-python",
+          "type": "Content",
           "videoUrl": ""
         }
       ],

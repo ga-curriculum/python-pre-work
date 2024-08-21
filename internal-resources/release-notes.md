@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Pre-Work</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy [tktk previous lecture name] lecture and provides some other minor updates detailed below. Updates are provided here at the module level, but all subsequent updates should be documented at the lesson level.
+This was ported over to github from myGA content. 
 
 ### Release details
 

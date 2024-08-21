@@ -1,21 +1,24 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Pre-Work</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+Welcome to our Python Pre-Work! In just over three hours, this mini course will provide you with a solid foundation in Python programming. You'll learn essential concepts such as data types, control flow, functions, object-oriented programming, and error handling. Designed for beginners, this program is your first step towards learning Python and preparing for more advanced coding later. Dive in and start your Python journey here!
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                          | -- | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                   | -- | -- |                                         |
+| Lesson                                                                           | Time        | Skills                                                                                                                                |
+| -------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Introduction to Python](./introduction-to-python/README.md)                     | 20 min      | Describe the history of Python and write a basic Python script                                                                        |
+| [Data Types in Python](./data-types-in-python/README.md)                         | 25 min      | Define, manipulate and convert primitive Python data types                                                                            |
+| [Manipulating Variables in Python](./manipulating-variables-in-python/README.md) | 30 min      | Declare and use Python variables, including lists, tuples, sets, and distinguish between their common methods and complex data types. |
+| [Control Flow in Python](./control-flow-in-python/README.md)                     | 30 min      | Explain the importance of control flow in programming and write loops and conditional statements in Python.                           |
+| [Functions in Python](./functions-in-python/README.md)                           | 45 min      | Write and run functions in Python, including returning values, to make code more concise.                                             |
+| [Objects and Classes](./objects-and-classes/README.md)                           | 30 min      | Create objects from classes using instantiation and pass instance methods and variables with the "self" argument.                     |
+| [Error Handling in Python](./error-handling-in-python/README.md)                 | 25 min      | Troubleshoot common Python errors, use try-except for error handling, and explain the use of the raise keyword.                       |
+| **Total content**                                                                | 3 hr 25 min |                                                                                                                                       |
 
 ## References
 
@@ -25,17 +28,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+- None
 
 ### Resources
 
