@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Functions in Python](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Functions in Python</span>
+</h1>
 
 ## Functions in Python ( 45 min )
 

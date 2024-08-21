@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Error Handling in Python](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Error Handling in Python</span>
+</h1>
 
 ## Error Handling in Python ( 25 min )
 

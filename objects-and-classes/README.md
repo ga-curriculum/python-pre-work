@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Objects and Classes](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Objects and Classes</span>
+</h1>
 
 ## Objects and Classes ( 30 min )
 

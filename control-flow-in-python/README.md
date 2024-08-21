@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Control Flow in Python](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Control Flow in Python</span>
+</h1>
 
 ## Control Flow in Python ( 30 min )
 

@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Manipulating Variables in Python](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Manipulating Variables in Python</span>
+</h1>
 
 ## Manipulating Variables in Python ( 30 min )
 

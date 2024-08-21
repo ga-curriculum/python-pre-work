@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Data Types in Python](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Data Types in Python</span>
+</h1>
 
 ## Data Types in Python ( 25 min )
 

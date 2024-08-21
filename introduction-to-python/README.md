@@ -1,4 +1,7 @@
-# ![Python Pre-Work - Introduction to Python](./assets/hero.png)
+<h1>
+  <span class="headline">Python Pre-Work</span>
+  <span class="subhead">Introduction to Python</span>
+</h1>
 
 ## Introduction to Python ( 20 min )
 
