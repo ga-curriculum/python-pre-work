@@ -8,9 +8,9 @@ Select all that apply.
 
 - Correct: Because Python is open source, it has expansive libraries of other developers’ code that we can use.
 
-- Incorrect : Python emphasizes readability and simplicity, making it easier to write and understand than many other languages.
+- Correct : Python emphasizes readability and simplicity, making it easier to write and understand than many other languages.
 
-- Correct: Python emphasizes functionality, so even though the code is a little more intricate and complex, it also creates more complicated programs.
+- Incorrect: Python emphasizes functionality, so even though the code is a little more intricate and complex, it also creates more complicated programs.
 
 - Incorrect : Because Python is open source, the code we write is automatically shared with every other developer who uses it.
 
